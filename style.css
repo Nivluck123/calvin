@@ -98,7 +98,7 @@ nav a:hover{
 
 
 .home img{
-    width:100%;
+    width:300px;
 }
 
 @media (min-width:720px){
@@ -133,6 +133,10 @@ main p{
     font-size:1.2rem;
     line-height:1.5rem;
     letter-spacing:.7px;
+}
+
+main img{
+    width:100%;
 }
 
 @media (min-width:720px){

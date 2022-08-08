@@ -98,12 +98,13 @@ nav a:hover{
 
 
 .home img{
-    width:300px;
+    width:100%;
 }
 
 @media (min-width:720px){
     .home{
         flex-direction:row;
+        
         justify-content: space-between;
         align-items:flex-end;
         margin:0 3rem;
